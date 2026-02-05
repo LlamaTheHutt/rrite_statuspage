@@ -7,22 +7,19 @@ sites:
     url: https://www.rrite.ca
   - name: App
     url: https://app.rrite.ca
-  - name: Server
-    url: https://zroykzokdgxifjujqaex.supabase.co
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  - name: Supabase Health
+    url: https://zroykzokdgxifjujqaex.supabase.co/functions/v1/health-check
+    interval: 5
+    retries: 2
+    conditions:
+      - status: 200
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.rrite.ca
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/LlamaTheHutt/rrite_statuspage/57bbbe8316afe844f335aae213234fe7e56482f9/assets/upptime-icon.svg
   name: Rrite Status Page
   introTitle: "**Rrite** is a service for automating handwritten letters."
   introMessage: This is a status page which monitors the up-time of different dependencies and services.
