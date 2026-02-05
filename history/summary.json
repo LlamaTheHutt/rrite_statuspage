@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.rrite.ca.ico",
     "slug": "main-website",
     "status": "down",
-    "uptime": "0.02%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "0.02%",
-    "uptimeMonth": "0.02%",
-    "uptimeYear": "0.02%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-05": 24
+      "2026-02-05": 92
     }
   },
   {
@@ -36,27 +36,27 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-05": 24
+      "2026-02-05": 92
     }
   },
   {
     "name": "Supabase Health",
-    "url": "https://zroykzokdgxifjujqaex.supabase.co/functions/v1/health-check",
+    "url": "https://zroykzokdgxifjujqaex.supabase.co/rest/v1/",
     "icon": "https://icons.duckduckgo.com/ip3/zroykzokdgxifjujqaex.supabase.co.ico",
     "slug": "supabase-health",
     "status": "down",
-    "uptime": "8.42%",
-    "uptimeDay": "8.42%",
-    "uptimeWeek": "8.42%",
-    "uptimeMonth": "8.42%",
-    "uptimeYear": "8.42%",
-    "time": 922,
-    "timeDay": 922,
-    "timeWeek": 922,
-    "timeMonth": 922,
-    "timeYear": 922,
+    "uptime": "0.03%",
+    "uptimeDay": "0.03%",
+    "uptimeWeek": "0.03%",
+    "uptimeMonth": "0.03%",
+    "uptimeYear": "0.03%",
+    "time": 539,
+    "timeDay": 539,
+    "timeWeek": 539,
+    "timeMonth": 539,
+    "timeYear": 539,
     "dailyMinutesDown": {
-      "2026-02-05": 0
+      "2026-02-05": 68
     }
   }
 ]
