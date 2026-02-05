@@ -8,11 +8,7 @@ sites:
   - name: App
     url: https://app.rrite.ca
   - name: Supabase Health
-    url: https://zroykzokdgxifjujqaex.supabase.co/functions/v1/health-check
-    interval: 5
-    retries: 2
-    conditions:
-      - status: 200
+    url: https://zroykzokdgxifjujqaex.supabase.co/rest/v1/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -22,7 +18,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/LlamaTheHutt/rrite_statuspage/57bbbe8316afe844f335aae213234fe7e56482f9/assets/upptime-icon.svg
   name: Rrite Status Page
   introTitle: "**Rrite** is a service for automating handwritten letters."
-  introMessage: This is a status page which monitors the up-time of different dependencies and services.
+  introMessage: This is a status page which monitors the up-time of various dependencies and services.
   navbar:
     - title: Status
       href: /
