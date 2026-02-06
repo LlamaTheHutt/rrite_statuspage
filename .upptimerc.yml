@@ -27,6 +27,8 @@ status-website:
       href: /
     - title: Website
       href: https://www.rrite.ca
+    - title: App
+      href: https://www.app.rrite.ca
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
