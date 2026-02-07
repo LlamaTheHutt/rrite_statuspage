@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-06": 90
+      "2026-02-07": 127,
+      "2026-02-06": 1365
     }
   },
   {
@@ -25,16 +26,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.rrite.ca.ico",
     "slug": "app",
     "status": "up",
-    "uptime": "31.40%",
-    "uptimeDay": "31.40%",
-    "uptimeWeek": "31.40%",
-    "uptimeMonth": "31.40%",
-    "uptimeYear": "31.40%",
-    "time": 220,
-    "timeDay": 220,
-    "timeWeek": 220,
-    "timeMonth": 220,
-    "timeYear": 220,
+    "uptime": "87.86%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "87.86%",
+    "uptimeMonth": "87.86%",
+    "uptimeYear": "87.86%",
+    "time": 238,
+    "timeDay": 217,
+    "timeWeek": 238,
+    "timeMonth": 238,
+    "timeYear": 238,
     "dailyMinutesDown": {
       "2026-02-06": 70,
       "2026-02-05": 136
@@ -46,16 +47,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/zroykzokdgxifjujqaex.supabase.co.ico",
     "slug": "supabase-health",
     "status": "up",
-    "uptime": "71.17%",
-    "uptimeDay": "71.17%",
-    "uptimeWeek": "71.17%",
-    "uptimeMonth": "71.17%",
-    "uptimeYear": "71.17%",
-    "time": 348,
-    "timeDay": 348,
-    "timeWeek": 348,
-    "timeMonth": 348,
-    "timeYear": 348,
+    "uptime": "95.24%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "95.24%",
+    "uptimeMonth": "95.24%",
+    "uptimeYear": "95.24%",
+    "time": 342,
+    "timeDay": 228,
+    "timeWeek": 342,
+    "timeMonth": 342,
+    "timeYear": 342,
     "dailyMinutesDown": {
       "2026-02-05": 80
     }
